@@ -1,0 +1,23 @@
+{
+  "name": "simple-calc",
+  "version": "1.0.0",
+  "description": "a simple calculator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babdurrahman78/simple-calc.git"
+  },
+  "author": "Bilal Abdurrahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babdurrahman78/simple-calc/issues"
+  },
+  "homepage": "https://github.com/babdurrahman78/simple-calc#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
